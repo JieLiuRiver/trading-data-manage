@@ -1,0 +1,1 @@
+.blink-row{transition:background-color 1s ease-in-out;--bgcolor: transparent}.blink-row-red{background-color:red!important}.blink-row-green{background-color:green!important}.blink-row-gray{background-color:gray!important}.blink-row-yellow{--color: #333;color:#333!important;background-color:#ff0!important}

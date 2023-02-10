@@ -1,0 +1,13 @@
+/lambda/
+/scripts
+/config
+.history
+public
+dist
+mock
+.eslintrc.js
+.stylelintrc.js
+.prettierrc.js
+node_modules
+
+server/*

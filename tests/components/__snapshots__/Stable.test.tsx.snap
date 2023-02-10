@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StableIcon should render correctly with default props 1`] = `
+<svg
+  class="icon"
+  height="24"
+  p-id="9429"
+  version="1.1"
+  viewBox="0 0 1024 1024"
+  width="24"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M63.6 489.6h896.7v44.8H63.6z"
+    p-id="9430"
+  />
+</svg>
+`;
+
+exports[`StableIcon should render correctly with size and color props 1`] = `
+<svg
+  class="icon"
+  fill="gray"
+  height="48"
+  p-id="9429"
+  version="1.1"
+  viewBox="0 0 1024 1024"
+  width="48"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M63.6 489.6h896.7v44.8H63.6z"
+    p-id="9430"
+  />
+</svg>
+`;
+
+exports[`UpIcon should render correctly with default props 1`] = `
+<svg
+  class="icon"
+  height="24"
+  p-id="9429"
+  version="1.1"
+  viewBox="0 0 1024 1024"
+  width="24"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M63.6 489.6h896.7v44.8H63.6z"
+    p-id="9430"
+  />
+</svg>
+`;
+
+exports[`UpIcon should render correctly with size and color props 1`] = `
+<svg
+  class="icon"
+  fill="red"
+  height="48"
+  p-id="9429"
+  version="1.1"
+  viewBox="0 0 1024 1024"
+  width="48"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M63.6 489.6h896.7v44.8H63.6z"
+    p-id="9430"
+  />
+</svg>
+`;
